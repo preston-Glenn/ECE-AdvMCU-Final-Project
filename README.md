@@ -32,6 +32,9 @@ We need some sort of workflow/ compiler to make the elf file format that we can 
 3. Investigate writing to R5 memory
 4. Try to write single instruction and run it
 
+1. Try to load single asm instruction to R5 and run it and verify it. || DO example hellow world
+2. Look into compiling workflow after that.
+
 
 
 
