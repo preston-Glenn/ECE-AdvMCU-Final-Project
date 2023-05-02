@@ -1,6 +1,11 @@
 
 # R5 Setup Process
 
+## Purpose
+This Project demonstrates how to setup and use the RPU cores with the APU. The example in this directory
+offloads fpu computation from the APU to either the RPU to use its FPU or the RPU to send to the PL FPU
+
+
 ## Setup Vivado Environemnt
 1. Generate bitstream for Vivado.
 2. Export bitstream.
