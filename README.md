@@ -31,6 +31,7 @@ Before we can start programming the R5 we need to create a Platform. This is so 
 ### Modify Board Support Package (BSP)
 Edit the hardware platform RPU BSP to include LibMetal and OpenAMP and build the hardware platform
 
+## Create Project
 
 ### Create Application Project
 Now we need to create an application project. This will be the actual program we run. Create a Application Project File -> New -> Applicaiton Project. When creating make sure to select the previously created Platform Project.  On the Application Project Details page, make sure to select the R5 core in a new project system. Finally, choose one of the OpenAMP demos to start from or a different template.
